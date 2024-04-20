@@ -37,7 +37,11 @@ SimHub: https://www.simhubdash.com
 
   - [1] 0.96 Inch OLED Screen: https://www.aliexpress.com/item/3256805114625872.html
 
-  - [1] Female Micro USB Header: https://www.aliexpress.com/item/3256802134100208.html
+  - [1] Female Micro USB plug: https://www.aliexpress.com/item/3256802134100208.html
+
+  - [1] Micro USB male plug (JSRV8UP): https://www.aliexpress.us/item/3256804401328448.html
+
+  - [1] Micro USB cable (5p-5CM): https://www.aliexpress.us/item/3256804401328448.html
 
   - [2] Rotary Encoder: https://www.aliexpress.com/item/3256806221432121.html
 
