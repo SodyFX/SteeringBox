@@ -62,7 +62,7 @@ SimHub: https://www.simhubdash.com
 
   - [2] D2F-01 Micro Switches: https://www.aliexpress.com/item/3256805020718071.html
   
-  - [2] 623ZZ ball bearing: https://www.aliexpress.com/item/3256805351771473.html
+  - [4] 623ZZ ball bearing: https://www.aliexpress.com/item/3256805351771473.html
   
   - [8] 12mmx3mm magnets (I used 8, but you can fit a couple more or less to change shifter strength): https://www.aliexpress.com/item/3256805722817574.html
   
@@ -71,7 +71,7 @@ SimHub: https://www.simhubdash.com
 
   - [2] M3x6mm self-tapping (LED box)
   
-  - [6] M3x4mm (shifter paddles and screen holder)
+  - [8] M3x4mm (shifter paddles and screen holder)
 
   - [8] M2x32mm (shifter boxes)
 
