@@ -5,7 +5,7 @@ This has been a fun project for me. I used a few amazing projects and combined t
 
 Also a big thanks to my buddy Nate for contributing his time/ideas to this box and being a tester.
 
-![Buy Me a Coffee](https://giphy.com/stickers/buymeacoffee-transparent-buy-me-a-coffee-support-RETzc1mj7HpZPuNf3e) https://buymeacoffee.com/sodyfx
+![Buy Me a Coffee](https://www.owlstown.com/assets/icons/bmc-yellow-button-e91f626c5320efe1868dd75673b6edae7d0e2e4f059d40cd3287a7c8536805e6.png) https://buymeacoffee.com/sodyfx
 
 ![Screenshot](images/preview_front1.png)
 
