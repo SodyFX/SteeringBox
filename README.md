@@ -5,6 +5,8 @@ This has been a fun project for me. I used a few amazing projects and combined t
 
 Also a big thanks to my buddy Nate for contributing his time/ideas to this box and being a tester.
 
+[[https://giphy.com/stickers/buymeacoffee-transparent-buy-me-a-coffee-support-RETzc1mj7HpZPuNf3e]] https://buymeacoffee.com/sodyfx
+
 ![Screenshot](images/preview_front1.png)
 
 **Thanks to these creators and their projects:**
