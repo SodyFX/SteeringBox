@@ -33,7 +33,7 @@ SimHub: https://www.simhubdash.com
 
   - [1] Arduino Micro (without headers): https://amzn.to/49O19BN
 
-  - [8] M3x4mm heat inserts (up to 16x, but I only use 8): https://amzn.to/4d2PfGR
+  - [10] M3x4mm heat inserts (up to 18x, but I only use 10): https://amzn.to/4d2PfGR
 
   - [2] M2.5x4mm heat inserts: https://amzn.to/4d2PfGR
 
