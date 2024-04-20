@@ -69,21 +69,25 @@ SimHub: https://www.simhubdash.com
 
 ### **Screws**
 
-  - [2] M3x6mm self-tapping (RGB LED box)
+  - [2] M3x6mm regular head self-tapping (RGB LED box)
   
-  - [8] M3x4mm (shifter paddles and screen holder)
+  - [8] M3x4mm flat head (shifter paddles and screen holder)
 
-  - [8] M2x32mm (shifter boxes)
+  - [8] M2x32mm flat head (shifter boxes)
 
-  - [2] M3x50mm (shifter paddles)
+  - [2] M3x50mm socket head (shifter paddles)
 
-  - [2] M2.5x4mm (funky switch)
+  - [2] M2.5x4mm flat or regular head (funky switch)
+
+  - [6] M5x30mm or M5x32mm flat head (Button box to Thrustmaster adapter)
 
 ### **Nuts**
   
   - [6] M3 nylock (shifter paddles)
 
   - [8] M2 nylock (shifter boxes)
+
+  - [6] M5 nylock (Thrustmaster adapter)
 
 
 ### **Optional**
