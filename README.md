@@ -94,4 +94,4 @@ SimHub: https://www.simhubdash.com
 
 ## Build Info
 
-Head to the Wiki for instructions: https://github.com/SodyFX/SteeringBox/wiki/
+Head to the Wiki for instructions: https://github.com/SodyFX/SteeringBox/wiki/Steering-Box-Wiki
