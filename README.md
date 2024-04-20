@@ -23,6 +23,7 @@ Oliver Martens' Thrustmaster Adapter: https://www.printables.com/model/422991-th
 
 SimHub: https://www.simhubdash.com
 
+Daniel Newman Racing LED Profiles for SimHub: https://www.danielnewmanracing.com
 
 
 ## **Parts List**
