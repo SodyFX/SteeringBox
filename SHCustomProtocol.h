@@ -1,12 +1,10 @@
-// Either replace current SHCustomProtocol.h file or add changes from this file to your current SHCustomProtocol.h file
-
 #ifndef __SHCUSTOMPROTOCOL_H__
 #define __SHCUSTOMPROTOCOL_H__
 
 #include <Arduino.h>
 #include "TFTScreen.h"
 
-// Custom Protocol Line - Add to SimHub under Arduino -> My Hardware -> Custom Protocol (unselect Javascript)
+// Custom Protocol Line
 // isnull([DataCorePlugin.GameData.NewData.Gear], '-') + ',' + isnull([DataCorePlugin.GameData.NewData.Flag_Green],0) + ',' + isnull([DataCorePlugin.GameData.NewData.Flag_Yellow],0) + ',' + isnull([DataCorePlugin.GameData.NewData.Flag_White],0) + ',' + isnull([DataCorePlugin.GameData.NewData.Flag_Checkered],0)
 
 class SHCustomProtocol {
@@ -32,7 +30,7 @@ public:
     DisplayOn();
     fore = WHITE;    
     MoveTo(0,0);
-    tftClearFlag()
+    tftClearFlag();
   }
 
 	// Called when new data is coming from computer
@@ -46,44 +44,45 @@ public:
     if (gflag == 1) {
       tftDrawFlagGreen();
       gflagh = 1;
+      tftDrawGear(lastgear);
     } else if (gflagh == 1) {
       tftClearFlag();
       gflagh = 0;
+      tftDrawGear(lastgear);
     }
 
     if (yflag == 1) {
       tftDrawFlagYellow();
       yflagh = 1;
+      tftDrawGear(lastgear);
     } else if (yflagh == 1) {
       tftClearFlag();
       yflagh = 0;
+      tftDrawGear(lastgear);
     }
 
     if (wflag == 1) {
       tftDrawFlagWhite();
       wflagh = 1;
+      tftDrawGear(lastgear);
     } else if (wflagh == 1) {
       tftClearFlag();
       wflagh = 0;
+      tftDrawGear(lastgear);
     }
 
     if (cflag == 1) {
       tftDrawFlagCheck();
       cflagh = 1;
+      tftDrawGear(lastgear);
     } else if (cflagh == 1) {
       tftClearFlag();
       cflagh = 0;
+      tftDrawGear(lastgear);
     }
 
     if (gear != lastgear ) {
-        MoveTo(64,4);
-      if (gear == "N") {
-        PlotChar('N');
-      } else if (gear == "R") {
-        PlotChar('R');
-      } else {
-        PlotInt(gear.toInt());
-      }
+      tftDrawGear(gear);
       lastgear = gear;
     }
 	}

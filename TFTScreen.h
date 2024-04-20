@@ -1,12 +1,10 @@
-// Copy this file to C:\Program Files (x86)\SimHub\_Addons\Arduino\DisplayClientV2
-
 #include <SPI.h>
 
 int const cs = 22;
 int const dc = 23;
-// Adafruit 0.96" 160x80 display - Blue Tab
+// 0.96" 160x80 display - Blue Tab
 int const xsize = 160, ysize = 80, xoff = 0, yoff = 24, invert = 0, rotate = 0, bgr = 1;
-// AliExpress 0.96" 160x80 display - Green Tab
+// 0.96" 160x80 display - Green Tab
 //int const xsize = 160, ysize = 80, xoff = 1, yoff = 26, invert = 1, rotate = 0, bgr = 1;
 
 #define BLACK 0x0000
@@ -329,3 +327,16 @@ void tftClearFlag() {
   FillRect(160,80);
   fore = WHITE;
 }
+
+void tftDrawGear(String newgear) {
+  fore = WHITE;
+  MoveTo(64,4);
+  if (newgear == "N") {
+    PlotChar('N');
+  } else if (newgear == "R") {
+    PlotChar('R');
+  } else {
+    PlotInt(newgear.toInt());
+  }
+}
+
