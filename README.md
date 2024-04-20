@@ -5,7 +5,7 @@ This has been a fun project for me. I used a few amazing projects and combined t
 
 Also a big thanks to my buddy Nate for contributing his time/ideas to this box and being a tester.
 
-![Screenshot](images/buttonbox_1.png)
+![Screenshot](images/preview_front1.png)
 
 **Thanks to these creators and their projects:**
 
