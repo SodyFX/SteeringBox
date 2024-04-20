@@ -69,7 +69,7 @@ SimHub: https://www.simhubdash.com
 
 ### **Screws**
 
-  - [2] M3x6mm self-tapping (LED box)
+  - [2] M3x6mm self-tapping (RGB LED box)
   
   - [8] M3x4mm (shifter paddles and screen holder)
 
