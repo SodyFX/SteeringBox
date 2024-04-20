@@ -5,6 +5,8 @@ This has been a fun project for me. I used a few amazing projects and combined t
 
 Also a big thanks to my buddy Nate for contributing his time/ideas to this box and being a tester.
 
+<a href="https://buymeacoffee.com/sodyfx"><img src="https://www.owlstown.com/assets/icons/bmc-yellow-button-e91f626c5320efe1868dd75673b6edae7d0e2e4f059d40cd3287a7c8536805e6.png" height="45"></a>
+
 ![Screenshot](images/preview_front1.png)
 
 **Thanks to these creators and their projects:**
@@ -60,7 +62,7 @@ SimHub: https://www.simhubdash.com
 
   - [2] D2F-01 Micro Switches: https://www.aliexpress.com/item/3256805020718071.html
   
-  - [2] 623ZZ ball bearing: https://www.aliexpress.com/item/3256805351771473.html
+  - [4] 623ZZ ball bearing: https://www.aliexpress.com/item/3256805351771473.html
   
   - [8] 12mmx3mm magnets (I used 8, but you can fit a couple more or less to change shifter strength): https://www.aliexpress.com/item/3256805722817574.html
   
@@ -69,7 +71,7 @@ SimHub: https://www.simhubdash.com
 
   - [2] M3x6mm self-tapping (LED box)
   
-  - [6] M3x4mm (shifter paddles and screen holder)
+  - [8] M3x4mm (shifter paddles and screen holder)
 
   - [8] M2x32mm (shifter boxes)
 
