@@ -9,6 +9,8 @@ Also a big thanks to my buddy Nate for contributing his time/ideas to this box a
 
 ![Screenshot](images/preview_front1.png)
 
+<img src="https://github.com/SodyFX/SteeringBox/blob/main/images/oledscreen_anim.gif">
+
 **Thanks to these creators and their projects:**
 
 KaiserSoft's Open Sim Button Box: https://github.com/KaiserSoft/OpenSimButtonBox/tree/master/Wheel%20Button%20Box
@@ -21,6 +23,7 @@ Oliver Martens' Thrustmaster Adapter: https://www.printables.com/model/422991-th
 
 SimHub: https://www.simhubdash.com
 
+Daniel Newman Racing LED Profiles for SimHub: https://www.danielnewmanracing.com
 
 
 ## **Parts List**
