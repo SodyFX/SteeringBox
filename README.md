@@ -1,7 +1,7 @@
 # Sody's Steering Box
-Steering box for online racing to use with SimHub
+Steering box for online racing to use with SimHub for a Thrustmaster TX Servo base (will work with other Thrustmaster wheels that have the same threaded quick release)
 
-I used a few amazing projects and combined them all into one super steering box that can be used with almost any 70mm steering wheel. Bolt it onto this 3D-printed project and have a good time. This began as a way to mount a SimPush Thrustmaster Wheel onto a universal button box with a quick release from AliExpress. I had to do some funky rotations on a Thrustmaster quick release base (rotated 30°) to make it work. I've included those 3D files in this project in case someone does want to use them. In the end though, I bought a standard 70mm rim and that works so much better. I use an NRG quick release to match up with my Simagic GT Neo to swap back and forth and it's been an incredible solution for me.
+I used a few projects and combined them all into one super steering box that can be used with almost any 70mm steering wheel. Bolt it onto this 3D-printed project and have a good time. This began as a way to mount a SimPush Thrustmaster Wheel (58mm pattern) onto a button box with a quick release from AliExpress. I had to do some funky rotations on a Thrustmaster quick release base (rotated 30° to get the 58mm bolts onto the box, then 70mm onto the Thrustmaster part) to make it work. I've included those 3D files in this project in case someone does want to use them (the things marked as 58mm and not 70mm). In the end though, I bought a standard 70mm rim and that works so much better. I use an NRG quick release to match up with my Simagic GT Neo to swap back and forth and it's been an incredible solution for me.
 
 Also a big thanks to my buddy Nate for contributing his time/ideas to this box and being a tester.
 
