@@ -9,7 +9,7 @@ Also a big thanks to my buddy Nate for contributing his time/ideas to this box a
 
 ![Screenshot](images/preview_front1.png)
 
-The screen has flag coloring for Green, Yellow, White and Checkered flags as well as a gear indicator
+The screen has flag coloring for Green, Yellow, White and Checkered flags as well as a gear indicator. If you don't want to deal with the screen, I've included an STL without the screen hole/mount.
 <img src="https://github.com/SodyFX/SteeringBox/blob/main/images/oledscreen_anim.gif">
 
 **Thanks to these creators and their projects:**
