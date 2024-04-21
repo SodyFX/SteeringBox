@@ -34,17 +34,17 @@ Daniel Newman Racing LED Profiles for SimHub: https://www.danielnewmanracing.com
 
   - Any standardish 70mm rim (pay attention to wheel base to not hit button/encoder holes on the box itself). I used: https://amzn.to/3W1Ajmq
 
-  - 24 AWG Wire (any will do): https://www.aliexpress.com/item/3256805702676823.html
+  - 24 AWG Wire (any will do): https://www.aliexpress.us/item/3256805702676823.html
 
   - [1] Arduino Micro (without headers): https://amzn.to/49O19BN
 
-  - [10] M3x4mm heat inserts (up to 18x, but I only use 10): https://amzn.to/4d2PfGR
+  - [10] M3x4mm heat inserts (up to 18x, but I only use 10): https://amzn.to/4d8mCZ6
 
   - [2] M2.5x4mm heat inserts: https://amzn.to/4d2PfGR
 
   - [1] 0.96 Inch OLED Screen: https://www.aliexpress.com/item/3256805114625872.html
 
-  - [1] Female Micro USB plug: https://www.aliexpress.com/item/3256802134100208.html
+  - [1] Female Micro USB plug (A Micro usb Female, flat mouth): https://www.aliexpress.com/item/3256802134100208.html
 
   - [1] Micro USB male plug (JSRV8UP): https://www.aliexpress.us/item/3256804401328448.html
 
