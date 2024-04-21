@@ -103,4 +103,4 @@ Daniel Newman Racing LED Profiles for SimHub: https://www.danielnewmanracing.com
 
 ## Build Info
 
-Head to the Wiki for instructions: https://github.com/SodyFX/SteeringBox/wiki/Steering-Box-Wiki
+Head to the Wiki for instructions: https://github.com/SodyFX/SteeringBox/wiki
