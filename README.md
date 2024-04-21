@@ -58,8 +58,6 @@ Daniel Newman Racing LED Profiles for SimHub: https://www.danielnewmanracing.com
 
   - [5] 12mm Momentary Buttons: https://www.aliexpress.us/item/3256804994626491.html
 
-  - [1] Steering Wheel Quick Release (must be 6+4 ball to work with Simagic wheels): https://amzn.to/3WaooCY or https://www.aliexpress.us/item/3256805482792786.html
-
   - [1] 3D Printed/Aluminum Thrustmaster Adapter (I'd advise against the Aluminum AliExpress adapter, it's very heavy): https://www.printables.com/model/422991-thrustmaster-qr-70mm-universal-hub-with-6-pin-din-
 
 
@@ -96,6 +94,8 @@ Daniel Newman Racing LED Profiles for SimHub: https://www.danielnewmanracing.com
 
 
 ### **Optional**
+
+  - [1] Steering Wheel Quick Release (must be 6+4 ball to work with Simagic wheels): https://amzn.to/3WaooCY or https://www.aliexpress.us/item/3256805482792786.html
 
   - [2] Rotary Encoder knobs: https://www.aliexpress.us/item/2251832562966356.html
 
