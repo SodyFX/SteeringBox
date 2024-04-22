@@ -42,32 +42,32 @@ Daniel Newman Racing LED Profiles for SimHub: https://www.danielnewmanracing.com
 
   - [2] M2.5x4mm heat inserts: https://amzn.to/4d2PfGR
 
-  - [1] 0.96 Inch OLED Screen: https://www.aliexpress.com/item/3256805114625872.html
+  - [1] 0.96 Inch OLED Screen: [https://www.aliexpress.com/item/3256805114625872.html](https://s.click.aliexpress.com/e/_DeGfpYj)
 
-  - [1] Female Micro USB plug (A Micro usb Female, flat mouth): https://www.aliexpress.com/item/3256802134100208.html
+  - [1] Female Micro USB plug (A Micro usb Female, flat mouth): [https://www.aliexpress.com/item/3256802134100208.html](https://s.click.aliexpress.com/e/_DkJSELN)
 
-  - [1] Micro USB male plug (JSRV8UP): https://www.aliexpress.us/item/3256804401328448.html
+  - [1] Micro USB male plug (JSRV8UP): [https://www.aliexpress.us/item/3256804401328448.html](https://s.click.aliexpress.com/e/_DBvKZEP)
 
-  - [1] Micro USB cable (5p-5CM): https://www.aliexpress.us/item/3256804401328448.html
+  - [1] Micro USB cable (5p-5CM): [https://www.aliexpress.us/item/3256804401328448.html](https://s.click.aliexpress.com/e/_DkFfKFV)
 
-  - [2] Rotary Encoder: https://www.aliexpress.com/item/3256806221432121.html
+  - [2] Rotary Encoder: [https://www.aliexpress.com/item/3256806221432121.html](https://s.click.aliexpress.com/e/_DDCRbIX)
 
   - [1] 4 or 5 way navigation switch (not enough button options on Arduino Micro to use the 5th button press): https://amzn.to/44fOyWU
 
-  - [2] WS2182 equivalent RGB board: https://www.aliexpress.com/item/3256806172522483.html
+  - [2] WS2182 equivalent RGB board: [https://www.aliexpress.com/item/3256806172522483.html](https://s.click.aliexpress.com/e/_DmvSv71)
 
-  - [5] 12mm Momentary Buttons: https://www.aliexpress.us/item/3256804994626491.html
-
+  - [5] 12mm Momentary Buttons: [https://www.aliexpress.us/item/3256804994626491.html
+](https://s.click.aliexpress.com/e/_Dk0i5OX)
   - [1] 3D Printed/Aluminum Thrustmaster Adapter (I'd advise against the Aluminum AliExpress adapter, it's very heavy): https://www.printables.com/model/422991-thrustmaster-qr-70mm-universal-hub-with-6-pin-din-
 
 
 ### **Shifters **
 
-  - [2] D2F-01 Micro Switches: https://www.aliexpress.com/item/3256805020718071.html
+  - [2] D2F-01 Micro Switches: [https://www.aliexpress.com/item/3256805020718071.html](https://s.click.aliexpress.com/e/_DkxA3NN)
   
   - [4] 623ZZ ball bearing: https://www.aliexpress.com/item/3256805351771473.html
   
-  - [8] 12mmx3mm magnets (I used 8, but you can fit a couple more or less to change shifter strength): https://www.aliexpress.com/item/3256805722817574.html
+  - [8] 12mmx3mm magnets (I used 8, but you can fit a couple more or less to change shifter strength): [https://www.aliexpress.com/item/3256805722817574.html](https://s.click.aliexpress.com/e/_Dme1lHl)
   
 
 ### **Screws**
@@ -95,11 +95,11 @@ Daniel Newman Racing LED Profiles for SimHub: https://www.danielnewmanracing.com
 
 ### **Optional**
 
-  - [1] Steering Wheel Quick Release (must be 6+4 ball to work with Simagic wheels): https://amzn.to/3WaooCY or https://www.aliexpress.us/item/3256805482792786.html
+  - [1] Steering Wheel Quick Release (must be 6+4 ball to work with Simagic wheels): https://amzn.to/3WaooCY or [https://www.aliexpress.us/item/3256805482792786.html](https://s.click.aliexpress.com/e/_DDISJv5)
 
-  - [2] Rotary Encoder knobs: https://www.aliexpress.us/item/2251832562966356.html
+  - [2] Rotary Encoder knobs: [https://www.aliexpress.us/item/2251832562966356.html](https://s.click.aliexpress.com/e/_DcZ6oIL)
 
-  - [1] Micro-USB Coiled Cable (can use any Micro-USB cable): https://www.aliexpress.com/item/3256805986924644.html?spm=a2g0o.order_list.order_list_main.34.5b621802RDwdBt
+  - [1] Micro-USB Coiled Cable (can use any Micro-USB cable): [https://www.aliexpress.com/item/3256805986924644.html](https://s.click.aliexpress.com/e/_Dk3tSYn)
 
 ## Build Info
 
